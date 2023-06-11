@@ -1,4 +1,4 @@
-# EX-01:
+# Ex-01:
 ## SQL QUERY TO FETCH "FIRTS-NAME" FROM THE WORKER TABLE USING THE ALIAS NAME FROM THE SAMPLE DATA
 ### AIM:
 To fetch first name from the worker table using alias from the sample data using SQL query.
